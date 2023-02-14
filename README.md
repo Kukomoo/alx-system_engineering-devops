@@ -1,1 +1,1 @@
-this repo is for my practice
+This is all about variables and expansions
